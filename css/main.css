@@ -132,6 +132,7 @@ nav {
 .list_tab li a {
   display: block;
   line-height: 43px;
+  white-space: nowrap;
 }
 
 .list_tab li a>span {
